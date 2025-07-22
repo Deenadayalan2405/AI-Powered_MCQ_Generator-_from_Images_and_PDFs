@@ -1,0 +1,1 @@
+HEADERS = {"Authorization": f"Bearer {HUGGINGFACE_TOKEN}"}

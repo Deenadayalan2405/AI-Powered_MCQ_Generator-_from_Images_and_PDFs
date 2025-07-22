@@ -1,0 +1,410 @@
+[
+  {
+    "description": "a white and orange check mark",
+    "source": "output/images/page10_image1.jpeg",
+    "question": "Which of the following is correct?",
+    "options": [
+      "",
+      "white and orange check mark.",
+      "",
+      "white and orange check mark."
+    ],
+    "answer": "A"
+  },
+  {
+    "description": "a pencil and a pencil with a line of arrows",
+    "source": "output/images/page10_image2.png",
+    "question": "Which of the following is true?",
+    "options": [
+      "",
+      "pencil and a pencil with a line of arrows.",
+      "",
+      "pencil and a pencil with a line of arrows."
+    ],
+    "answer": "A"
+  },
+  {
+    "description": "the logo for the new website",
+    "source": "output/images/page10_image3.png",
+    "question": "Which of the following is NOT true?",
+    "options": [
+      "Only one should be correct.",
+      "Only one should be correct.",
+      "Only one should be correct.",
+      "Only one should be correct."
+    ],
+    "answer": "A"
+  },
+  {
+    "description": "a clock with a white face and a black face",
+    "source": "output/images/page10_image4.png",
+    "question": "Which of the following is true?",
+    "options": [
+      "",
+      "clock with a white face and a black face.",
+      "",
+      "clock with a white face and a black face."
+    ],
+    "answer": "A"
+  },
+  {
+    "description": "a drawing of a line of lines that are drawn in different directions",
+    "source": "output/images/page11_image2.png",
+    "question": "Which of the following is NOT true?",
+    "options": [
+      "The drawing of a line of lines that are drawn in different directions.",
+      "The drawing of a line of lines that are drawn in different directions.",
+      "The drawing of a line of lines that are drawn in different directions.",
+      "The drawing of a line of lines that are drawn in different directions."
+    ],
+    "answer": "A"
+  },
+  {
+    "description": "a set of blue balloons with a white background",
+    "source": "output/images/page11_image3.png",
+    "question": "Which of the following is NOT true?",
+    "options": [
+      "",
+      "set of blue balloons with a white background.",
+      "",
+      "set of blue balloons with a white background."
+    ],
+    "answer": "A"
+  },
+  {
+    "description": "a calendar with the date of december",
+    "source": "output/images/page11_image4.jpeg",
+    "question": "Which of the following is correct?",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": "A"
+  },
+  {
+    "description": "a diagram of the number of the two - dimensional numbers",
+    "source": "output/images/page12_image2.png",
+    "question": "Which of the following is true?",
+    "options": [
+      "Only one should be correct.",
+      "Only one should be correct.",
+      "Only one should be correct.",
+      "Only one should be correct."
+    ],
+    "answer": "A"
+  },
+  {
+    "description": "a scale with a lamp and a book on it",
+    "source": "output/images/page13_image2.png",
+    "question": "Which of the following is NOT true?",
+    "options": [
+      "",
+      "scale with a lamp and a book on it.",
+      "",
+      "scale with a lamp and a book on it."
+    ],
+    "answer": "A"
+  },
+  {
+    "description": "a beach ball with a number on it",
+    "source": "output/images/page13_image3.png",
+    "question": "Which of the following is true?",
+    "options": [
+      "",
+      "beach ball with a number on it.",
+      "",
+      "beach ball with a number on it."
+    ],
+    "answer": "A"
+  },
+  {
+    "description": "a flower with the number 25 on it",
+    "source": "output/images/page1_image10.png",
+    "question": "Which of the following is true?",
+    "options": [
+      "",
+      "flower with the number 25 on it.",
+      "",
+      "flower with the number 25 on it."
+    ],
+    "answer": "A"
+  },
+  {
+    "description": "two black and white flowers with faces",
+    "source": "output/images/page1_image5.png",
+    "question": "Which of the following is true?",
+    "options": [
+      "There are two black and white flowers with faces.",
+      "There are two black and white flowers with faces.",
+      "There are two black and white flowers with faces.",
+      "There are two black and white flowers with faces."
+    ],
+    "answer": "A"
+  },
+  {
+    "description": "a flower with the number 15 on it",
+    "source": "output/images/page1_image9.png",
+    "question": "Which of the following is true?",
+    "options": [
+      "",
+      "flower with the number 15 on it.",
+      "",
+      "flower with the number 15 on it."
+    ],
+    "answer": "A"
+  },
+  {
+    "description": "a flower with four petals",
+    "source": "output/images/page2_image2.png",
+    "question": "Which of the following is true?",
+    "options": [
+      "",
+      "flower with four petals.",
+      "",
+      "flower with four petals."
+    ],
+    "answer": "A"
+  },
+  {
+    "description": "a flower with the number 50 on it",
+    "source": "output/images/page2_image3.png",
+    "question": "Which of the following is true?",
+    "options": [
+      "",
+      "flower with the number 50 on it.",
+      "",
+      "flower with the number 50 on it."
+    ],
+    "answer": "A"
+  },
+  {
+    "description": "a black and white image of a line of light",
+    "source": "output/images/page2_image4.png",
+    "question": "Which of the following is true?",
+    "options": [
+      "",
+      "black and white image of a line of light.",
+      "",
+      "black and white image of a line of light."
+    ],
+    "answer": "A"
+  },
+  {
+    "description": "a black and white photo of a metal chain",
+    "source": "output/images/page2_image5.png",
+    "question": "Which of the following is true?",
+    "options": [
+      "",
+      "black and white photo of a metal chain.",
+      "",
+      "black and white photo of a metal chain."
+    ],
+    "answer": "A"
+  },
+  {
+    "description": "a set of metal clips",
+    "source": "output/images/page2_image6.jpeg",
+    "question": "Which of the following is NOT true?",
+    "options": [
+      "",
+      "set of metal clips is a set of metal clips.",
+      "",
+      "set of metal clips is a set of metal clips."
+    ],
+    "answer": "A"
+  },
+  {
+    "description": "a basket with bananas and a banana peel",
+    "source": "output/images/page2_image7.png",
+    "question": "Which of the following is true?",
+    "options": [
+      "",
+      "basket with bananas and a banana peel.",
+      "",
+      "basket with bananas and a banana peel."
+    ],
+    "answer": "A"
+  },
+  {
+    "description": "the three light bulbs are shown in the same pattern",
+    "source": "output/images/page5_image4.png",
+    "question": "Which of the following is true?",
+    "options": [
+      "The three light bulbs are shown in the same pattern.",
+      "The three light bulbs are shown in the same pattern.",
+      "The three light bulbs are shown in the same pattern.",
+      "The three light bulbs are shown in the same pattern."
+    ],
+    "answer": "A"
+  },
+  {
+    "description": "a diagram of the two circles with the same numbers",
+    "source": "output/images/page5_image5.png",
+    "question": "Which of the following is NOT true?",
+    "options": [
+      "",
+      "diagram of the two circles with the same numbers.",
+      "",
+      "diagram of the two circles with the same numbers."
+    ],
+    "answer": "A"
+  },
+  {
+    "description": "a diagram of a face with a blue eye",
+    "source": "output/images/page6_image2.png",
+    "question": "The diagram of a face with a blue eye is _ .",
+    "options": [
+      "a diagram of a face with a blue eye",
+      "a diagram of a face with a blue eye",
+      "a diagram of a face with a blue eye",
+      "a diagram of a face with a blue eye"
+    ],
+    "answer": "A"
+  },
+  {
+    "description": "a diagram of a triangle with a line of symmetry",
+    "source": "output/images/page6_image3.png",
+    "question": "Which of the following is true?",
+    "options": [
+      "",
+      "triangle with a line of symmetry.",
+      "",
+      "triangle with a line of symmetry."
+    ],
+    "answer": "A"
+  },
+  {
+    "description": "a tree with apples on it",
+    "source": "output/images/page8_image2.jpeg",
+    "question": "Which of the following is true?",
+    "options": [
+      "",
+      "tree with apples on it.",
+      "",
+      "tree with apples on it."
+    ],
+    "answer": "A"
+  },
+  {
+    "description": "a diagram of a single - pole",
+    "source": "output/images/page8_image6.png",
+    "question": "Which of the following is true?",
+    "options": [
+      "",
+      "diagram of a single - pole.",
+      "",
+      "diagram of a single - pole."
+    ],
+    "answer": "A"
+  },
+  {
+    "description": "a diagram of a single pole with a single pole",
+    "source": "output/images/page8_image8.png",
+    "question": "Which of the following is true?",
+    "options": [
+      "",
+      "diagram of a single pole with a single pole.",
+      "",
+      "diagram of a single pole with a single pole."
+    ],
+    "answer": "A"
+  },
+  {
+    "description": "a white and black line shows the number of the two different parts",
+    "source": "output/images/page9_image3.png",
+    "question": "Which of the following is true?",
+    "options": [
+      "",
+      "white and black line shows the number of the two different parts.",
+      "",
+      "white and black line shows the number of the two different parts."
+    ],
+    "answer": "A"
+  },
+  {
+    "description": "a glass with a black handle and two glasses with a white background",
+    "source": "output/images/page9_image4.png",
+    "question": "Which of the following is true?",
+    "options": [
+      "",
+      "glass with a black handle and two glasses with a white background.",
+      "",
+      "glass with a black handle and two glasses with a white background."
+    ],
+    "answer": "A"
+  },
+  {
+    "description": "a black mug with the words, ` ` ' and ` ' ' '",
+    "source": "output/images/page9_image5.png",
+    "question": "Which of the following is true?",
+    "options": [
+      "",
+      "black mug with the words   ' and  ' '.",
+      "",
+      "black mug with the words   ' and  ' '."
+    ],
+    "answer": "A"
+  },
+  {
+    "description": "a diagram of the three aminos",
+    "source": "output/images/page9_image6.png",
+    "question": "Which of the following is NOT true?",
+    "options": [
+      "",
+      "diagram of the three aminos.",
+      "",
+      "diagram of the three aminos."
+    ],
+    "answer": "A"
+  },
+  {
+    "description": "5 \n \n \n[C] \n [D] \n \nAns [B] \n \n10. Sonia bought 45...",
+    "source": "Page 5",
+    "question": "Which of the following is correct?",
+    "options": [
+      "Only one should be correct.",
+      "Only one should be correct.",
+      "Only one should be correct.",
+      "Only one should be correct."
+    ],
+    "answer": "A"
+  },
+  {
+    "description": "7 \n \n16. Which of the following clocks shows 30 mi...",
+    "source": "Page 7",
+    "question": "How many students does kiddy gold High School have?",
+    "options": [
+      "453 students.",
+      "453 students.",
+      "453 students.",
+      "453 students."
+    ],
+    "answer": "A"
+  },
+  {
+    "description": "8 \n \n18. Tanshu spent Rs 35.70 on a ball and Rs 50...",
+    "source": "Page 8",
+    "question": "Which of the following is true?",
+    "options": [
+      "Tanshu spent Rs 35.70 on a ball and Rs 50.30 on a toy car.",
+      "Tanshu spent Rs 80 on a ball and Rs 50.30 on a toy car.",
+      "Tanshu spent Rs 80 on a ball and Rs 50.30 on a toy car.",
+      "Tanshu spent Rs 80 on a ball and Rs 50.30 on a toy car."
+    ],
+    "answer": "A"
+  },
+  {
+    "description": "12 \n \nAns [B] \n \nACHIEVER SECTION \n \n31. How much ...",
+    "source": "Page 12",
+    "question": "Which of the following is true?",
+    "options": [
+      "The packet of rice has a mass of _______________ kg.",
+      "The packet of rice has a mass of _______________ kg.",
+      "The packet of rice has a mass of _______________ kg.",
+      "The packet of rice has a mass of _______________ kg."
+    ],
+    "answer": "A"
+  }
+]
